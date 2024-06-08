@@ -1,0 +1,39 @@
+class Solution {
+public:
+    bool checkSubarraySum(vector<int>& nums, int k) {
+        // int start=0,n=nums.size();
+        // int sum=0,length=0;
+        // vector<int> index(n,0);
+        // for(int i=0;i<n;i++)
+        // {
+        //     index[nums[i]]=1;
+        // }
+        // // for(int end=0;end<n;end++)
+        // // {
+        // //     sum+=nums[end];
+        // //     int m=sum%k;
+        // //     if(m==0 || index[m]==1){
+        // //         length=end-start+1;
+        // //     }
+        // //     if(length>=2){
+        // //         return true;
+        // //     }
+        // // }
+        // return false;
+// first find prefix sum and then check range sum and after that check %k if pa%k=pb%k then it is required range check the length of range 
+        int n=nums.size(),prefSum=0;
+        unordered_map<int,int>firstOccurence;
+        firstOccurence[0]=0;
+        for(int i=0;i<n;i++)
+        {
+            prefSum=(prefSum+nums[i])%k;
+            if(firstOccurence.find(prefSum)!=firstOccurence.end())
+            {
+                if(i+1-firstOccurence[prefSum]>=2) return true;
+            }else{
+                firstOccurence[prefSum]=i+1;
+            }
+        }
+        return false;
+    }
+};
