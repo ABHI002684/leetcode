@@ -1,0 +1,57 @@
+/*
+Given a string n representing an integer, return the closest integer (not including itself), which is a palindrome. If there is a tie, return the smaller one.
+The closest is defined as the absolute difference minimized between two integers.
+
+Example 1:
+Input: n = "123"
+Output: "121"
+
+Example 2:
+Input: n = "1"
+Output: "0"
+Explanation: 0 and 2 are the closest palindromes but we return the smallest which is 0.
+ 
+Constraints:
+1 <= n.length <= 18
+n consists of only digits.
+n does not have leading zeros.
+n is representing an integer in the range [1, 10^18 - 1].
+*/
+class Solution {
+public:
+    string nearestPalindromic(string n) {
+        long originalNum=stol(n);
+        int len=n.size();
+
+        if(len==1) return to_string(stol(n)-1);
+
+        vector<long> candidates;
+        candidates.push_back(pow(10,len-1)-1);
+        candidates.push_back(pow(10,len)+1);
+
+        int half=(len+1)/2;
+        long prefix=stol(n.substr(0,half));
+        vector<long> prefixes={prefix,prefix-1,prefix+1};
+        
+        for(auto p:prefixes){
+            string left=to_string(p);
+            string right=left;
+            if(len%2!=0) right.pop_back();
+
+            reverse(right.begin(),right.end());
+            candidates.push_back(stol(left+right));
+        }
+
+        long minDiff=LONG_MAX,closestPalin=0;
+        for(auto candidate:candidates){
+            long diff=abs(originalNum-candidate);
+            if(candidate!=originalNum && diff<minDiff){
+                closestPalin=candidate;
+                minDiff=diff;
+            }else if(minDiff==diff){
+                closestPalin=min(closestPalin,candidate);
+            }
+        }
+        return to_string(closestPalin);
+    }
+};
