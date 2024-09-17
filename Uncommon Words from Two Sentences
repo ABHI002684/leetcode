@@ -1,0 +1,68 @@
+/*
+A sentence is a string of single-space separated words where each word consists only of lowercase letters.
+A word is uncommon if it appears exactly once in one of the sentences, and does not appear in the other sentence.
+Given two sentences s1 and s2, return a list of all the uncommon words. You may return the answer in any order.
+
+Example 1:
+Input: s1 = "this apple is sweet", s2 = "this apple is sour"
+Output: ["sweet","sour"]
+Explanation:
+The word "sweet" appears only in s1, while the word "sour" appears only in s2.
+
+Example 2:
+Input: s1 = "apple apple", s2 = "banana"
+Output: ["banana"]
+
+Constraints:
+1 <= s1.length, s2.length <= 200
+s1 and s2 consist of lowercase English letters and spaces.
+s1 and s2 do not have leading or trailing spaces.
+All the words in s1 and s2 are separated by a single space.
+*/
+class Solution {
+public:
+    vector<string> uncommonFromSentences(string s1, string s2) {
+        unordered_map<string,int> mp1;
+        unordered_map<string,int> mp2;
+        string s="";
+        for(int i=0;i<s1.size();i++){
+            if(s1[i]==' '){
+                mp1[s]++;
+                s="";
+                continue;
+            }
+            s+=s1[i];
+        }
+        mp1[s]++;
+        string t="";
+        for(int i=0;i<s2.size();i++){
+             if(s2[i]==' '){
+                mp2[t]++;
+                t="";
+                continue;
+            }
+            t+=s2[i];
+        }
+        mp2[t]++;
+
+        vector<string> ans;
+        for(auto& i:mp1){
+            string p=i.first;
+            if(mp1[p]!=1 || mp2.find(p)!=mp2.end()){
+                mp2.erase(p);
+            }else{
+                ans.push_back(p);
+            }
+        }
+
+        for(auto i:mp2){
+            string p=i.first;
+            if(mp2[p]==1){
+                ans.push_back(p);
+            }
+            
+        }
+
+        return ans;
+    }
+};
