@@ -1,0 +1,74 @@
+/*
+You are given an array nums of non-negative integers and an integer k.
+An array is called special if the bitwise OR of all of its elements is at least k.
+Return the length of the shortest special non-empty subarray of nums, or return -1 if no special subarray exists.
+
+Example 1:
+Input: nums = [1,2,3], k = 2
+Output: 1
+Explanation:The subarray [3] has OR value of 3. Hence, we return 1.
+
+Example 2:
+Input: nums = [2,1,8], k = 10
+Output: 3
+Explanation:The subarray [2,1,8] has OR value of 11. Hence, we return 3.
+
+Example 3:
+Input: nums = [1,2], k = 0
+Output: 1
+Explanation:The subarray [1] has OR value of 1. Hence, we return 1.
+
+Constraints:
+1 <= nums.length <= 2 * 10^5
+0 <= nums[i] <= 10^9
+0 <= k <= 10^9
+*/
+class Solution {
+public:
+    int minimumSubarrayLength(vector<int>& nums, int k1) 
+    {
+        int n=nums.size();
+        int bit[32];
+        int ornum=0;
+        int i,j;
+        i=j=0;
+        int ans=INT_MAX;
+        while(j<n)
+        {
+            int num=nums[j];
+            ornum|=num;
+            int abc=1;
+            for(int k=0;k<32;k++)
+            {
+                if(num&abc)
+                    bit[k]++;
+                abc=abc<<1;
+            }
+            if(ornum<k1)
+                j++;
+            else
+            {
+                while(i<=j and ornum>=k1)
+                {
+                    ans=min(ans,j-i+1);
+                    num=nums[i];
+                    abc=1;
+                    for(int k=0;k<32;k++)
+                    {
+                        if(num&abc)
+                        {
+                            bit[k]--;
+                            if(bit[k]==0)
+                                ornum^=abc;
+                        }
+                        
+                        abc=abc<<1;
+                    }
+                    i++;
+                    }
+                j++;
+            }
+        }
+        return ans==INT_MAX?-1:ans;
+    }
+};
