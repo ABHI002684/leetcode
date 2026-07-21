@@ -17,4 +17,12 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ABHI002684/leetcode/tree/master/1260-shift-2d-grid) |
+## String
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ABHI002684/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ABHI002684/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
