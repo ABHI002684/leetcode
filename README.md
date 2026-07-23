@@ -9,6 +9,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ABHI002684/leetcode/tree/master/1260-shift-2d-grid) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ABHI002684/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Matrix
 |  |
 | ------- |
@@ -25,4 +26,12 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ABHI002684/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Math
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ABHI002684/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ABHI002684/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
