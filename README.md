@@ -25,6 +25,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ABHI002684/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ABHI002684/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ABHI002684/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -34,6 +35,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ABHI002684/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ABHI002684/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ABHI002684/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ABHI002684/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -54,4 +56,13 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ABHI002684/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ABHI002684/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ABHI002684/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ABHI002684/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
