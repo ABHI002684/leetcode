@@ -18,6 +18,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ABHI002684/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ABHI002684/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ABHI002684/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ABHI002684/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/ABHI002684/leetcode/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -58,6 +59,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ABHI002684/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ABHI002684/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
 | ------- |
