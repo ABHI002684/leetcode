@@ -37,6 +37,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ABHI002684/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ABHI002684/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ABHI002684/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ABHI002684/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ABHI002684/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -154,6 +155,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ABHI002684/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ABHI002684/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ABHI002684/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
