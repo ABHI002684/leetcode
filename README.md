@@ -17,6 +17,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ABHI002684/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2029-stone-game-ix](https://github.com/ABHI002684/leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ABHI002684/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ABHI002684/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ABHI002684/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ABHI002684/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ABHI002684/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -77,6 +78,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ABHI002684/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ABHI002684/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ABHI002684/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ABHI002684/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ABHI002684/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ABHI002684/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -178,4 +180,8 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/ABHI002684/leetcode/tree/master/2029-stone-game-ix) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ABHI002684/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
