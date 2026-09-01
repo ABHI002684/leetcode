@@ -22,6 +22,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ABHI002684/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ABHI002684/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ABHI002684/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ABHI002684/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ABHI002684/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ABHI002684/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ABHI002684/leetcode/tree/master/3731-find-missing-elements) |
@@ -29,6 +30,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ABHI002684/leetcode/tree/master/1260-shift-2d-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ABHI002684/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -72,6 +74,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/ABHI002684/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ABHI002684/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ABHI002684/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ABHI002684/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
@@ -102,6 +105,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ABHI002684/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ABHI002684/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ABHI002684/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ABHI002684/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ABHI002684/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ABHI002684/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/ABHI002684/leetcode/tree/master/3731-find-missing-elements) |
@@ -153,6 +157,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/ABHI002684/leetcode/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ABHI002684/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
