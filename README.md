@@ -26,6 +26,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ABHI002684/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ABHI002684/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ABHI002684/leetcode/tree/master/3731-find-missing-elements) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ABHI002684/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -69,6 +70,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ABHI002684/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ABHI002684/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ABHI002684/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ABHI002684/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
