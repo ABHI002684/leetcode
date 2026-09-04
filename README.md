@@ -27,6 +27,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 | [3718-smallest-missing-multiple-of-k](https://github.com/ABHI002684/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ABHI002684/leetcode/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ABHI002684/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/ABHI002684/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
@@ -191,4 +192,8 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ABHI002684/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/ABHI002684/leetcode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
