@@ -55,6 +55,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ABHI002684/leetcode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ABHI002684/leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/ABHI002684/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/ABHI002684/leetcode/tree/master/1096-brace-expansion-ii) |
@@ -284,6 +285,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ABHI002684/leetcode/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ABHI002684/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ABHI002684/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABHI002684/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -291,6 +293,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ABHI002684/leetcode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ABHI002684/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABHI002684/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ABHI002684/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
