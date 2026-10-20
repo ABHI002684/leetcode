@@ -46,6 +46,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ABHI002684/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ABHI002684/leetcode/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ABHI002684/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/ABHI002684/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/ABHI002684/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ABHI002684/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
@@ -102,6 +103,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 | [3499-maximize-active-section-with-trade-i](https://github.com/ABHI002684/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ABHI002684/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ABHI002684/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/ABHI002684/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
 | ------- |
@@ -125,6 +127,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ABHI002684/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/ABHI002684/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ABHI002684/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/ABHI002684/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -150,6 +153,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ABHI002684/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ABHI002684/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ABHI002684/leetcode/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/ABHI002684/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
