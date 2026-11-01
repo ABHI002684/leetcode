@@ -8,6 +8,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ABHI002684/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/ABHI002684/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ABHI002684/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/ABHI002684/leetcode/tree/master/0835-image-overlap) |
@@ -122,6 +123,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ABHI002684/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/ABHI002684/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ABHI002684/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/ABHI002684/leetcode/tree/master/0836-rectangle-overlap) |
