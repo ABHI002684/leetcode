@@ -23,6 +23,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ABHI002684/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ABHI002684/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ABHI002684/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1882-process-tasks-using-servers](https://github.com/ABHI002684/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2029-stone-game-ix](https://github.com/ABHI002684/leetcode/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ABHI002684/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ABHI002684/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -186,6 +187,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ABHI002684/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/ABHI002684/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ABHI002684/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ABHI002684/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ABHI002684/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
