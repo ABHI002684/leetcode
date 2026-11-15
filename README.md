@@ -21,6 +21,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 | [1406-stone-game-iii](https://github.com/ABHI002684/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ABHI002684/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ABHI002684/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ABHI002684/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ABHI002684/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ABHI002684/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ABHI002684/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -143,6 +144,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 | [0877-stone-game](https://github.com/ABHI002684/leetcode/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ABHI002684/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/ABHI002684/leetcode/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ABHI002684/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ABHI002684/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ABHI002684/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2029-stone-game-ix](https://github.com/ABHI002684/leetcode/tree/master/2029-stone-game-ix) |
@@ -268,6 +270,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 | [0940-distinct-subsequences-ii](https://github.com/ABHI002684/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/ABHI002684/leetcode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ABHI002684/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ABHI002684/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ABHI002684/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ABHI002684/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ABHI002684/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -371,6 +374,7 @@ By consistently solving these problems, I aim to improve my problem-solving skil
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ABHI002684/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ABHI002684/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ABHI002684/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ABHI002684/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
